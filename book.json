@@ -1,0 +1,6 @@
+{
+    "plugins": ["mathjax"],
+     "direction": "rtl",
+     "language": "fa"
+}
+
